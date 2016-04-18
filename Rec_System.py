@@ -16,5 +16,3 @@ class Rec_System:
     def add_item(self,ItemID):
         current_item = ItemVector(ItemID)
         self.items[ItemID] = current_item
-        
-    def user_user(self,)
